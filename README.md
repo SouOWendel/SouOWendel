@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+💻 I’m currently improving myself in **ReactJS**, **Tailwind**, **TypeScript**, and **NodeJS** & **Express**.<br>
+🤓 I’m currently working on my portfolio and a system for FoundryVTT based on the Paranormal Order RPG rulebook, check the [repository](https://github.com/SouOWendel/ordemparanormal_fvtt).
+
+<a href="https://www.linkedin.com/in/wendel-henrique/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=souowendel@gmail.com&su=Enquiry&tf=cm" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <!--
 **SouOWendel/SouOWendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
